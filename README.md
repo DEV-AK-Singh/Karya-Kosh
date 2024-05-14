@@ -21,11 +21,11 @@ Welcome to the Karya Kosh repository! This project is designed to boost producti
 
 ## Screenshots
 
-![Karya Kosh Screenshot 1](![home-page](image.png))
-![Karya Kosh Screenshot 2](![task-form](image-1.png))
-![Karya Kosh Screenshot 3](![task-list](image-2.png))
-![Karya Kosh Screenshot 4](![task-calender](image-3.png))
-![Karya Kosh Screenshot 5](![task-completed](image-4.png))
+![Karya Kosh Screenshot 1](![home page](image.png))
+![Karya Kosh Screenshot 2](![task form](image-1.png))
+![Karya Kosh Screenshot 3](![task list](image-2.png))
+![Karya Kosh Screenshot 4](![task calender](image-3.png))
+![Karya Kosh Screenshot 5](![task completed](image-4.png))
 
 ## Installation
 
@@ -33,19 +33,19 @@ To get started with Karya Kosh, follow these simple steps:
 
 1. Clone the repository to your local machine.
 
-git clone https://github.com/your-username/karya-kosh.git
+`git clone https://github.com/your-username/karya-kosh.git`
 
 2. Navigate to the project directory.
 
-cd karya-kosh
+`cd karya-kosh`
 
 3. Install dependencies using your preferred package manager.
 
-npm install
+`npm install`
 
 4. Start the development server.
 
-npm run dev
+`npm run dev`
 
 5. Begin listing, managing, and tracking your tasks effortlessly!
 
