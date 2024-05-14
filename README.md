@@ -21,11 +21,11 @@ Welcome to the Karya Kosh repository! This project is designed to boost producti
 
 ## Screenshots
 
-(![home page](image.png))
-(![task form](image-1.png))
-(![task list](image-2.png))
-(![task calender](image-3.png))
-(![task completed](image-4.png))
+![home page](image.png)
+![task form](image-1.png)
+![task list](image-2.png)
+![task calender](image-3.png)
+![task completed](image-4.png)
 
 ## Installation
 
