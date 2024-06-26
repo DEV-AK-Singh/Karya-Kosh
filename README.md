@@ -23,14 +23,6 @@ Welcome to the Karya Kosh repository! This project is designed to boost producti
 - **Vite**: A fast, modern bundler for JavaScript and CSS.
 - **Local Storage**: Utilized for storing task data locally within the browser.
 
-## Screenshots
-
-![home page](image.png)
-![task form](image-1.png)
-![task list](image-2.png)
-![task calender](image-3.png)
-![task completed](image-4.png)
-
 ## Installation
 
 To get started with Karya Kosh, follow these simple steps:
