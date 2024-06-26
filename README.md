@@ -1,5 +1,9 @@
 # Karya Kosh
 
+## [Visit Website Here..](https://karya-kosh.vercel.app/)
+
+![Preview](Preview.png)
+
 Welcome to the Karya Kosh repository! This project is designed to boost productivity for students, developers, and professionals by providing a user-friendly platform to list, manage, and track daily tasks effectively. With intuitive features and a clean interface, organizing your tasks has never been easier.
 
 ## Features
@@ -33,19 +37,19 @@ To get started with Karya Kosh, follow these simple steps:
 
 1. Clone the repository to your local machine.
 
-`git clone https://github.com/your-username/karya-kosh.git`
+    `git clone https://github.com/your-username/karya-kosh.git`
 
 2. Navigate to the project directory.
 
-`cd karya-kosh`
+    `cd karya-kosh`
 
 3. Install dependencies using your preferred package manager.
 
-`npm install`
+    `npm install`
 
 4. Start the development server.
 
-`npm run dev`
+    `npm run dev`
 
 5. Begin listing, managing, and tracking your tasks effortlessly!
 
@@ -65,4 +69,3 @@ This project is licensed under the [MIT License](LICENSE.txt).
 ---
 
 [**Karya Kosh**](https://karya-kosh.vercel.app) is created and maintained with ❤️ by [Abhishek Singh](https://github.com/ABHISHEK-SIN-GH). Feel free to reach out with any questions, feedback, or suggestions!
-
