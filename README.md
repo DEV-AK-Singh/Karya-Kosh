@@ -2,7 +2,7 @@
 
 ## [Visit Website Here..](https://karya-kosh.vercel.app/)
 
-![Preview](Preview.png)
+## Project Overview
 
 Welcome to the Karya Kosh repository! This project is designed to boost productivity for students, developers, and professionals by providing a user-friendly platform to list, manage, and track daily tasks effectively. With intuitive features and a clean interface, organizing your tasks has never been easier.
 
@@ -14,6 +14,10 @@ Welcome to the Karya Kosh repository! This project is designed to boost producti
 - **Calendar Integration**: View and manage tasks based on a dynamic calendar interface.
 - **Data Persistence**: Utilizes local storage for seamless data retention across sessions.
 - **Responsive Design**: Ensures a consistent and enjoyable experience across various devices.
+
+## Previews
+
+![Preview](Preview.png)
 
 ## Technologies Used
 
